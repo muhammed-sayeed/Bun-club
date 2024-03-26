@@ -1,4 +1,4 @@
-# Bun Club Website
+# Bun Club
 ### Responsive Bakery Website 
 
 - Responsive Bakery Website Design Using HTML CSS And JavaScript
